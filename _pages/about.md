@@ -66,6 +66,12 @@ Led 20+ client events and implemented differentiated service strategies to enhan
 Managed daily banking operations and financial reporting, leading process improvements that streamlined operations and enhanced business procedures.<dr>
 Designed and launched a micro-credit loan product for farmers.
 
+# 📝 Teaching Experiences
+- *2023.04-2024.08*,**Corporate Trainer**.<dr>
+Conducted training courses for employees preparing for the Economics Professional Qualification, covering subjects such as monetary and financial economics, fundamentals of economics, fiscal policy, accounting, and statistics.
+- *2020.04-2020.12*,**MBA Entrance Exam Tutor**.<dr>
+Provided tutoring in foundational mathematics, logical reasoning, and analytical writing for MBA applicants. Delivered online sessions for 31 students and in-person tutoring for 2 students, significantly enhancing their exam scores.
+
 # 💬 Other Experiences
 - *2024.04*,**The 8th China International Standardization Leadership Elite＆ IEC YP(China) Programme**,Participant,Shenzhen Technology University,Shenzhen,China.<dr>
 Part of the IEC Young Expert Program. It aims to gather outstanding young engineering, technical, and management talents in the field of electrical and electronic engineering worldwide, promoting the sustainable development of IEC international standards and conformity assessment work.
