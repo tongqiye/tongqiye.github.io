@@ -63,25 +63,9 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 - *2020.09* **Third-class Academic Scholarship**,Nankai university.
 
 # 💻 Working Experiences
-<style>
-  .image-container {
-    float: right;
-    width: 40%;
-  }
-  .image-container img {
-    width: 100%;
-    height: auto;
-  }
-  .text-container {
-    float: left;
-    width: 50%;
-    text-align: left;
-  }
-</style> 
-<div class="image-container">
-  <img src="../images/图片1.png" alt="photo2"/>
-</div>
-<div class="text-contaniner">
+<img src="../images/图片1.png" alt="photo1" style="width: 30%;height:auto;float:right">
+<div style="overflow:auto;">
+<div style="float:left;">
   
 - *2022.09 - 2024.08*, [China Southern Power Grid Co., Ltd](https://www.csg.cn/)<br>
 **Training and Workforce Management**,Haikou,China.<br>
