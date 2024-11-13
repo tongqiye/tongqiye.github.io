@@ -11,7 +11,7 @@ redirect_from:
 I'm Qiye!Glad to meet you!🎉🎉&nbsp;**I am looking for a PhD opportunity for admission in 2025.**🎉🎉&nbsp; <br>
 I have earned a Bachelor's Degree in Finance, a Master's Degree in Business Administration, and on-the-job studies in Applied Psychology program and Computer Science and Technology program.I also have almost 7 years of work experience, which includes commercial banks, investment firms, and large energy companies.<br>
 As a co-author, I have published SSCI papers, of which the journal in which I published as a corresponding author is a JCR1 journal with IF 10.4.Under the guidance of Prof. Qi Yue from the Business School of Nankai University, my master's thesis also won the Outstanding Master's Thesis Award of Nankai University.<br>
-You can find my CV here:[ Qiye Tong’s Curriculum Vitae](./CurriculumVitae.pdf). If you are interested in my work, please feel free to drop me an email : [tongqiye@outlook.com].
+You can find my CV here:[ Qiye Tong’s Curriculum Vitae](./CurriculumVitae.pdf). If you are interested in my work, please feel free to drop me an email : [tongqiye@outlook.com](tongqiye@outlook.com).
 
 # 📝 Publications 
 - [The impact of artificial intelligence on corporate financial asset allocation:Moderating role of organizational dynamic capabilities](https://www.sciencedirect.com/science/article/abs/pii/S1057521924007051?via%3Dihub). <br>
@@ -143,7 +143,6 @@ Designed and launched a micro-credit loan product for farmers.
 # 📝 Teaching Experiences
 - *2023.04-2024.08*,**Corporate Trainer**. <br>
 Conducted training courses for employees preparing for the Economics Professional Qualification, covering subjects such as monetary and financial economics, fundamentals of economics, fiscal policy, accounting, and statistics.
-#  &nbsp;
 - *2020.04-2020.12*,**MBA Entrance Exam Tutor**. <br>
 Provided tutoring in foundational mathematics, logical reasoning, and analytical writing for MBA applicants. Delivered online sessions for 31 students and in-person tutoring for 2 students, significantly enhancing their exam scores.
 
@@ -152,11 +151,9 @@ Provided tutoring in foundational mathematics, logical reasoning, and analytical
 - *2024.04*,**The 8th China International Standardization Leadership Elite＆ IEC YP(China) Programme**.<br>
 Participant丨Shenzhen Technology University,Shenzhen,China. <br>
 >Part of the IEC Young Expert Program. It aims to gather outstanding young engineering, technical, and management talents in the field of electrical and electronic engineering worldwide, promoting the sustainable development of IEC international standards and conformity assessment work.
-# &nbsp;
 - *2023.02*,**Bachelor of Computer Science and Technology**.<br>
 >Part-time study丨Sichuan University,Chengdu,China. <br>
 Core Courses:Probability theory and mathematical Statistics, Data structure, Discrete mathematics, Advanced mathematics, C + + programming.
-#  &nbsp;
 - *2021.09*,**Masters of Psyechology**.<br>
 >Part-time study丨Renmin University of China,Beijing,China. <br>
 Core Courses:Psychological research methods, Advanced psychological statistics and measurement, Economic psychology, Human resource management, Human-computer interaction.
