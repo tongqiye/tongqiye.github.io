@@ -53,29 +53,29 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 - *2020.09* **Third-class Academic Scholarship**,Nankai university.
 
 # 💻 Working Experiences
-- *2022.09 - 2024.08*,[China Southern Power Grid Co., Ltd](https://www.csg.cn/)<dr>
-**Training and Workforce Management**,Haikou,China.<dr>
+- *2022.09 - 2024.08*,[China Southern Power Grid Co., Ltd](https://www.csg.cn/)<br>
+**Training and Workforce Management**,Haikou,China.<br>
 Led organizational restructuring and digital transformation initiatives to optimize labor costs and improve business management.<dr>
-Played a key role in developing dynamic performance appraisals and incentive plans, significantly improving employee motivation and organizational performance.<dr>
-- *2022.09 - 2024.08*,[China Industrial Bank](https://www.cib.com.cn/cn/index.html)<dr>
-**Financial Advisor**,Changzhi,China.<dr>
-Provided personalized financial planning services, achieving an average daily sales performance of 2 million yuan.<dr>
+Played a key role in developing dynamic performance appraisals and incentive plans, significantly improving employee motivation and organizational performance.<br>
+- *2022.09 - 2024.08*,[China Industrial Bank](https://www.cib.com.cn/cn/index.html)<br>
+**Financial Advisor**,Changzhi,China.<br>
+Provided personalized financial planning services, achieving an average daily sales performance of 2 million yuan.<br>
 Led 20+ client events and implemented differentiated service strategies to enhance customer satisfaction.
-- *2015.09 - 2017.01*,[Xiangyuan Ronghui Rural Commercial Bank](https://baike.baidu.com/item/%E8%A5%84%E5%9E%A3%E5%8E%BF%E8%9E%8D%E6%B1%87%E6%9D%91%E9%95%87%E9%93%B6%E8%A1%8C%E6%9C%89%E9%99%90%E8%B4%A3%E4%BB%BB%E5%85%AC%E5%8F%B8/4042156?fr=ge_ala))<dr>
-**Operations Management**,Changzhi,China.<dr>
-Managed daily banking operations and financial reporting, leading process improvements that streamlined operations and enhanced business procedures.<dr>
+- *2015.09 - 2017.01*,[Xiangyuan Ronghui Rural Commercial Bank](https://baike.baidu.com/item/%E8%A5%84%E5%9E%A3%E5%8E%BF%E8%9E%8D%E6%B1%87%E6%9D%91%E9%95%87%E9%93%B6%E8%A1%8C%E6%9C%89%E9%99%90%E8%B4%A3%E4%BB%BB%E5%85%AC%E5%8F%B8/4042156?fr=ge_ala))<br>
+**Operations Management**,Changzhi,China.<br>
+Managed daily banking operations and financial reporting, leading process improvements that streamlined operations and enhanced business procedures.<br>
 Designed and launched a micro-credit loan product for farmers.
 
 # 📝 Teaching Experiences
-- *2023.04-2024.08*,**Corporate Trainer**.<dr>
+- *2023.04-2024.08*,**Corporate Trainer**. <br>
 Conducted training courses for employees preparing for the Economics Professional Qualification, covering subjects such as monetary and financial economics, fundamentals of economics, fiscal policy, accounting, and statistics.
-- *2020.04-2020.12*,**MBA Entrance Exam Tutor**.<dr>
+- *2020.04-2020.12*,**MBA Entrance Exam Tutor**. <br>
 Provided tutoring in foundational mathematics, logical reasoning, and analytical writing for MBA applicants. Delivered online sessions for 31 students and in-person tutoring for 2 students, significantly enhancing their exam scores.
 
 # 💬 Other Experiences
-- *2024.04*,**The 8th China International Standardization Leadership Elite＆ IEC YP(China) Programme**,Participant,Shenzhen Technology University,Shenzhen,China.<dr>
+- *2024.04*,**The 8th China International Standardization Leadership Elite＆ IEC YP(China) Programme**,Participant,Shenzhen Technology University,Shenzhen,China. <br>
 Part of the IEC Young Expert Program. It aims to gather outstanding young engineering, technical, and management talents in the field of electrical and electronic engineering worldwide, promoting the sustainable development of IEC international standards and conformity assessment work.
-- *2023.02*,**Bachelor of Computer Science and Technology**,Part-time study,Sichuan University,Chengdu,China.<dr>
+- *2023.02*,**Bachelor of Computer Science and Technology**,Part-time study,Sichuan University,Chengdu,China. <br>
 Core Courses:Probability theory and mathematical Statistics, Data structure, Discrete mathematics, Advanced mathematics, C + + programming.
-- *2021.09*,**Masters of Psyechology**,Part-time study,Renmin University of China,Beijing,China.<dr>
+- *2021.09*,**Masters of Psyechology**,Part-time study,Renmin University of China,Beijing,China. <br>
 Core Courses:Psychological research methods, Advanced psychological statistics and measurement, Economic psychology, Human resource management, Human-computer interaction.
