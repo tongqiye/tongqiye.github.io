@@ -73,17 +73,30 @@ Led organizational restructuring and digital transformation initiatives to optim
 Played a key role in developing dynamic performance appraisals and incentive plans, significantly improving employee motivation and organizational performance.<br>
 
 #  
-<div style="display: flex; justify-content:space-between; align-item:center;">
-  <div>
-    <img src="../assets/xingyeyinhang.jpeg" alt="photo2"/>
-  </div>
-  <div style="margin-left: auto;">
-    
+<style>
+  .image-container {
+    float: left;
+    width: 50%;
+  }
+  .image-container img {
+    width: 100%;
+    height: auto;
+  }
+  .text-container {
+    float: right;
+    width: 50%;
+    text-align: right;
+  }
+</style> 
+
+<div class="image-container">
+  <img src="../assets/xingyeyinhang.jpeg" alt="photo2"/>
+</div>
+<div class="text-contaniner">
 - *2022.09 - 2024.08*,[China Industrial Bank](https://www.cib.com.cn/cn/index.html)<br>
 **Financial Advisor**,Changzhi,China.<br>
 Provided personalized financial planning services, achieving an average daily sales performance of 2 million yuan.<br>
 Led 20+ client events and implemented differentiated service strategies to enhance customer satisfaction.
-  </div>
 </div>
 
 #   
