@@ -20,8 +20,8 @@ Yu Li,Huiyi Zhong,**Qiye Tong***<br>
 &#8226;Doi:10.1016/j.irfa.2024.103773<br>
 - [The Influence of CEO Financial Background on Corporate Financialization](../assets/FRL.pdf).<br>
 Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
-- SSCI Journal Paper,JCR Q1
-- Finance Research Letter
+**Finance Research Letter**丨SSCI Journal Paper,JCR Q1，IF 10.4.<br>
+&#8226;Doi:10.1016/j.frl.2024.106382
 
 # 🔥 Research Experiences
 - *2023-2024*:**The Impact of Artificial Intelligence on Corporate Financial Asset Allocation:Moderating Role of Organizational   Dynamic Capabilities**
