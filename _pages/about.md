@@ -18,7 +18,6 @@ You can find my CV here:[ Qiye Tong’s Curriculum Vitae](./CurriculumVitae.pdf)
 Yu Li,Huiyi Zhong,**Qiye Tong***<br>
 **International Review of Financial Analysis**丨SSCI Journal,JCR Q1,IF 8.2.<br>
 &#8226;Doi:10.1016/j.irfa.2024.103773<br>
-# &nbsp;
 - [The Influence of CEO Financial Background on Corporate Financialization](https://www.sciencedirect.com/science/article/abs/pii/S1544612324014119?via%3Dihub).<br>
 Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 **Finance Research Letter**丨SSCI Journal,JCR Q1，IF 10.4.<br>
@@ -60,7 +59,7 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 # 💻 Working Experiences
 <style>
   .image-container {
-    float: left;
+    float: right;
     width: 40%;
   }
   .image-container img {
@@ -68,9 +67,9 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
     height: auto;
   }
   .text-container {
-    float: right;
+    float: left;
     width: 50%;
-    text-align: right;
+    text-align: left;
   }
 </style> 
 
@@ -85,10 +84,10 @@ Led organizational restructuring and digital transformation initiatives to optim
 Played a key role in developing dynamic performance appraisals and incentive plans, significantly improving employee motivation and organizational performance.<br>
 </div>
 
-# &nbsp;  
+# &nbsp;
 <style>
   .image-container {
-    float: left;
+    float: right;
     width: 30%;
   }
   .image-container img {
@@ -96,9 +95,9 @@ Played a key role in developing dynamic performance appraisals and incentive pla
     height: auto;
   }
   .text-container {
-    float: right;
+    float: left;
     width: 50%;
-    text-align: right;
+    text-align: left;
   }
 </style> 
 
@@ -111,10 +110,9 @@ Played a key role in developing dynamic performance appraisals and incentive pla
 **Financial Advisor**,Changzhi,China.<br>
 Provided personalized financial planning services, achieving an average daily sales performance of 2 million yuan.<br>
 Led 20+ client events and implemented differentiated service strategies to enhance customer satisfaction.
-
 </div>
 
-# &nbsp;   
+# &nbsp;
 - *2015.09 - 2017.01*,[Xiangyuan Ronghui Rural Commercial Bank](https://baike.baidu.com/item/%E8%A5%84%E5%9E%A3%E5%8E%BF%E8%9E%8D%E6%B1%87%E6%9D%91%E9%95%87%E9%93%B6%E8%A1%8C%E6%9C%89%E9%99%90%E8%B4%A3%E4%BB%BB%E5%85%AC%E5%8F%B8/4042156?fr=ge_ala))<br>
 **Operations Management**,Changzhi,China.<br>
 Managed daily banking operations and financial reporting, leading process improvements that streamlined operations and enhanced business procedures.<br>
