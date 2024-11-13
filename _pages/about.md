@@ -66,19 +66,25 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 <div style="align: left">
 <img src="../assets/nanfangdianwang.jpg" width="50%"/>
 </div>
-<div style="text-align: right">
+
 - *2022.09 - 2024.08*, [China Southern Power Grid Co., Ltd](https://www.csg.cn/)<br>
 **Training and Workforce Management**,Haikou,China.<br>
 Led organizational restructuring and digital transformation initiatives to optimize labor costs and improve business management.<dr>
 Played a key role in developing dynamic performance appraisals and incentive plans, significantly improving employee motivation and organizational performance.<br>
-</div>
 
 #  
-![photo2](../assets/xingyeyinhang.jpeg)
+<div style="display: flex; justify-content:space-between; align-item:center;">
+  <div>
+    <img src="../assets/xingyeyinhang.jpeg" alt="photo2"/>
+  </div>
+  <div style="margin-left: auto;">
+    
 - *2022.09 - 2024.08*,[China Industrial Bank](https://www.cib.com.cn/cn/index.html)<br>
 **Financial Advisor**,Changzhi,China.<br>
 Provided personalized financial planning services, achieving an average daily sales performance of 2 million yuan.<br>
 Led 20+ client events and implemented differentiated service strategies to enhance customer satisfaction.
+  </div>
+</div>
 
 #   
 - *2015.09 - 2017.01*,[Xiangyuan Ronghui Rural Commercial Bank](https://baike.baidu.com/item/%E8%A5%84%E5%9E%A3%E5%8E%BF%E8%9E%8D%E6%B1%87%E6%9D%91%E9%95%87%E9%93%B6%E8%A1%8C%E6%9C%89%E9%99%90%E8%B4%A3%E4%BB%BB%E5%85%AC%E5%8F%B8/4042156?fr=ge_ala))<br>
