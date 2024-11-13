@@ -78,19 +78,17 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
     text-align: left;
   }
 </style> 
-
 <div class="image-container">
   <img src="../images/图片1.png" alt="photo2"/>
 </div>
 <div class="text-contaniner">
-
+  
 - *2022.09 - 2024.08*, [China Southern Power Grid Co., Ltd](https://www.csg.cn/)<br>
 **Training and Workforce Management**,Haikou,China.<br>
 Led organizational restructuring and digital transformation initiatives to optimize labor costs and improve business management.<dr>
 Played a key role in developing dynamic performance appraisals and incentive plans, significantly improving employee motivation and organizational performance.<br>
 </div>
-
-# &nbsp;
+---
 <style>
   .image-container {
     float: right;
@@ -106,7 +104,6 @@ Played a key role in developing dynamic performance appraisals and incentive pla
     text-align: left;
   }
 </style> 
-
 <div class="image-container">
   <img src="../images/图片2.png" alt="photo2"/>
 </div>
@@ -117,8 +114,7 @@ Played a key role in developing dynamic performance appraisals and incentive pla
 Provided personalized financial planning services, achieving an average daily sales performance of 2 million yuan.<br>
 Led 20+ client events and implemented differentiated service strategies to enhance customer satisfaction.
 </div>
-
-# &nbsp;
+---
 <style>
   .image-container {
     float: right;
@@ -134,7 +130,6 @@ Led 20+ client events and implemented differentiated service strategies to enhan
     text-align: left;
   }
 </style> 
-
 <div class="image-container">
   <img src="../images/图片3.png" alt="photo3"/>
 </div>
@@ -145,7 +140,7 @@ Led 20+ client events and implemented differentiated service strategies to enhan
 Managed daily banking operations and financial reporting, leading process improvements that streamlined operations and enhanced business procedures.<br>
 Designed and launched a micro-credit loan product for farmers.
 </div>
-
+---
 # 📝 Teaching Experiences
 - *2023.04-2024.08*,**Corporate Trainer**. <br>
 Conducted training courses for employees preparing for the Economics Professional Qualification, covering subjects such as monetary and financial economics, fundamentals of economics, fiscal policy, accounting, and statistics.
