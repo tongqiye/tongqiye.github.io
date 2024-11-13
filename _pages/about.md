@@ -25,32 +25,35 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 
 # 💻 Research Experiences
 - *2023-2024*:**The Impact of Artificial Intelligence on Corporate Financial Asset Allocation:Moderating Role of Organizational   Dynamic Capabilities**<br>
+
 &#8226; **Activities**: Conceptualized the research framework to analyze the role of AI in corporate financial asset allocation, incorporating baseline regression and regulatory effect models. Developed baseline regression and regulatory effect models to evaluate AI's impact on financial asset allocation.Conducted data collection and analysis using CSMAR, Wind Financial Terminal, and company reports (25,811 companies).Actively engaged in peer-review discussions, addressing complex reviewer feedback to refine the study for publication.<br>
 &#8226; **Outcome**: [Published a research article as corresponding author in a high-impact,Q1 journal.](../assets/IRFA.pdf)<br>
 
-<img src="../images/图片5.png" width=40%">
-
 # &nbsp;     
 - *2023-2024*: **The Influence of CEO Financial Background on Corporate Financialization**<br>
+
 &#8226; **Activities**:Contributed to the design of a double-fixed-effect model to explore CEO financial background's effect on corporate financialization, including intermediary effects of overconfidence and financing constraints.Managed data collection and analysis of 3,919 listed companies from 2008 to 2022 using fixed-effects and propensity score matching methods.Assisted in multicollinearity testing and empirical analysis to ensure model accuracy.<br>
 &#8226;**Outcome**: [Published a research article as the third author in a high-impact,Q1 journal.](../assets/FRL.pdf)<br>
 #  &nbsp;     
 - *2022-2023*: **Research on Broadband Post-Level Dynamic Performance Appraisal and Incentive Scheme**<br>
+
 &#8226;**Activities**: Collaborated on designing a big data model for human resources, employing SQL and machine learning techniques (Support Vector Machine) to predict employee performance based on a dataset of 30,000 historical records.Designed and implemented dynamic performance feedback and incentive schemes that enhanced organizational performance.<br>
 &#8226;**Outcome**:[Awarded the provincial first prize for the project.](../assets/Award.PDF)<br>
 #   &nbsp;     
 - *2021-2022*: **The Study on Xiangyuan RH country bank of agricultural loan process reengineering under epidemic prevention situation.**<br>
+
 &#8226; **Activities**: Conducted a mixed-methods study, combining quantitative data analysis, surveys, and in-depth interviews to evaluate and optimize the bank's loan approval process under pandemic conditions.Used Python and statistical software to analyze over 300 questionnaires and 50 interviews to optimize loan processing and risk management.Resulting process improvements reduced loan approval time from 15 days to 7 days.<br>
 &#8226; **Outcome**: [Awarded the Excellent Master's Thesis Award at Nankai University.](../assets/lunwen.PDF)<br>
 #  &nbsp;      
 - *2019-2020*: **Research on the Construction and Application of Financial Manager Competency Model Under New Asset Management Regulations.**<br>
+
 &#8226; **Activities**:Reviewed extensive literature on financial manager competencies, contributing to the creation of a competency framework for bank financial managers, aligning with new asset management regulatory requirements.<br>
 &#8226; **Outcome**: [Published a research article in the Journal of Financial Perspectives.](../assets/qiyue.PDF)<br>
 
 # 📖 Educations
-- *2020.09 - 2022.06*, Masters of  Business Administration,Nankai University,Tianjin,China.
+- *2020.09 - 2022.06*, Masters of  Business Administration,Nankai University,Tianjin,China.<br>
 &#8226; Supervised by [Prof.Yue Qi](https://ibs.nankai.edu.cn/en/qiyue)
-- *2011.09 - 2015.06*, Bachelor of  Economics in Finance,Shanxi University of Finance and Economics,Taiyuan,China.
+- *2011.09 - 2015.06*, Bachelor of  Economics in Finance,Shanxi University of Finance and Economics,Taiyuan,China.<br>
 &#8226; Supervised by [Dr.Ting Zhang](https://jr.sxufe.edu.cn/info/1569/2768.htm)
 
 # 🎖 Honors and Awards
