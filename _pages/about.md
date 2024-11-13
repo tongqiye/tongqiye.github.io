@@ -10,7 +10,7 @@ redirect_from:
 # Welcome!
 I'm Qiye!Glad to meet you!🎉🎉&nbsp;**I am looking for a PhD opportunity for admission in 2025.**🎉🎉&nbsp; <br>
 I have earned a Bachelor's Degree in Finance, a Master's Degree in Business Administration, and on-the-job studies in Applied Psychology program and Computer Science and Technology program.I also have almost 7 years of work experience, which includes commercial banks, investment firms, and large energy companies.<br>
-As a co-author, I have published two SSCI papers, of which the journal in which I published as a corresponding author is a JCR1 journal with IF 10.4.Under the guidance of Prof. Qi Yue from the Business School of Nankai University, my master's thesis also won the Outstanding Master's Thesis Award of Nankai University.<br>
+As a co-author, I have published SSCI papers, of which the journal in which I published as a corresponding author is a JCR1 journal with IF 10.4.Under the guidance of Prof. Qi Yue from the Business School of Nankai University, my master's thesis also won the Outstanding Master's Thesis Award of Nankai University.<br>
 You can find my CV here:[ Qiye Tong’s Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](tongqiye@outlook.com).
 
 # 📝 Publications 
@@ -42,9 +42,9 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 
 # 📖 Educations
 - *2020.09 - 2022.06*, Masters of  Business Administration,Nankai University,Tianjin,China.
-- Supervised by [Prof.Yue Qi](https://ibs.nankai.edu.cn/en/qiyue)
+&#8226; Supervised by [Prof.Yue Qi](https://ibs.nankai.edu.cn/en/qiyue)
 - *2011.09 - 2015.06*, Bachelor of  Economics in Finance,Shanxi University of Finance and Economics,Taiyuan,China.
-- Supervised by [Dr.Ting Zhang](https://jr.sxufe.edu.cn/info/1569/2768.htm)
+&#8226; Supervised by [Dr.Ting Zhang](https://jr.sxufe.edu.cn/info/1569/2768.htm)
 
 # 🎖 Honors and Awards
 - *2024.01* **Outstanding Staff**, China Southern Power Grid Co., Ltd.
@@ -53,6 +53,7 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 - *2020.09* **Third-class Academic Scholarship**,Nankai university.
 
 # 💻 Working Experiences
+![photo1](../assets/photo1.png)
 - *2022.09 - 2024.08*,[China Southern Power Grid Co., Ltd](https://www.csg.cn/)<br>
 **Training and Workforce Management**,Haikou,China.<br>
 Led organizational restructuring and digital transformation initiatives to optimize labor costs and improve business management.<dr>
