@@ -65,12 +65,12 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 # 💻 Working Experiences
 <div style="align: left">
 <img src="../assets/nanfangdianwang.jpg" width="50%"/>
-<div style="text-align: right;">
+</div>
+<div style="text-align: right">
 - *2022.09 - 2024.08*, [China Southern Power Grid Co., Ltd](https://www.csg.cn/)<br>
 **Training and Workforce Management**,Haikou,China.<br>
 Led organizational restructuring and digital transformation initiatives to optimize labor costs and improve business management.<dr>
 Played a key role in developing dynamic performance appraisals and incentive plans, significantly improving employee motivation and organizational performance.<br>
-  </div>
 </div>
 
 #  
