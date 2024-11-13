@@ -19,7 +19,7 @@ Yu Li,Huiyi Zhong,**Qiye Tong***<br>
 **International Review of Financial Analysis**丨SSCI Journal,JCR Q1,IF 8.2.<br>
 &#8226;Doi:10.1016/j.irfa.2024.103773<br>
 
-***       
+# &nbsp;       
 - [The Influence of CEO Financial Background on Corporate Financialization](https://www.sciencedirect.com/science/article/abs/pii/S1544612324014119?via%3Dihub).<br>
 Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 **Finance Research Letter**丨SSCI Journal,JCR Q1，IF 10.4.<br>
