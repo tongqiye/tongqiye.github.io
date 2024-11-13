@@ -73,25 +73,9 @@ Led organizational restructuring and digital transformation initiatives to optim
 Played a key role in developing dynamic performance appraisals and incentive plans, significantly improving employee motivation and organizational performance.<br>
 </div>
 ***
-<style>
-  .image-container {
-    float: right;
-    width: 30%;
-  }
-  .image-container img {
-    width: 100%;
-    height: auto;
-  }
-  .text-container {
-    float: left;
-    width: 50%;
-    text-align: left;
-  }
-</style> 
-<div class="image-container">
-  <img src="../images/图片2.png" alt="photo2"/>
-</div>
-<div class="text-contaniner">
+<img src="../images/图片2.png" alt="photo2" style="width: 30%;height:auto;float:right">
+<div style="overflow:auto;">
+<div style="float:left;">
 
 - *2022.09 - 2024.08*,[China Industrial Bank](https://www.cib.com.cn/cn/index.html)<br>
 **Financial Advisor**,Changzhi,China.<br>
@@ -99,32 +83,17 @@ Provided personalized financial planning services, achieving an average daily sa
 Led 20+ client events and implemented differentiated service strategies to enhance customer satisfaction.
 </div>
 ***
-<style>
-  .image-container {
-    float: right;
-    width: 30%;
-  }
-  .image-container img {
-    width: 100%;
-    height: auto;
-  }
-  .text-container {
-    float: left;
-    width: 50%;
-    text-align: left;
-  }
-</style> 
-<div class="image-container">
-  <img src="../images/图片3.png" alt="photo3"/>
-</div>
-<div class="text-contaniner">
+<img src="../images/图片3.png" alt="photo3" style="width: 30%;height:auto;float:right">
+<div style="overflow:auto;">
+<div style="float:left;">
 
 - *2015.09 - 2017.01*,[Xiangyuan Ronghui Rural Commercial Bank](https://baike.baidu.com/item/%E8%A5%84%E5%9E%A3%E5%8E%BF%E8%9E%8D%E6%B1%87%E6%9D%91%E9%95%87%E9%93%B6%E8%A1%8C%E6%9C%89%E9%99%90%E8%B4%A3%E4%BB%BB%E5%85%AC%E5%8F%B8/4042156?fr=ge_ala))<br>
 **Operations Management**,Changzhi,China.<br>
 Managed daily banking operations and financial reporting, leading process improvements that streamlined operations and enhanced business procedures.<br>
 Designed and launched a micro-credit loan product for farmers.
 </div>
-***
+
+
 # 📝 Teaching Experiences
 - *2023.04-2024.08*,**Corporate Trainer**. <br>
 Conducted training courses for employees preparing for the Economics Professional Qualification, covering subjects such as monetary and financial economics, fundamentals of economics, fiscal policy, accounting, and statistics.
