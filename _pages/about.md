@@ -72,7 +72,9 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 Led organizational restructuring and digital transformation initiatives to optimize labor costs and improve business management.<dr>
 Played a key role in developing dynamic performance appraisals and incentive plans, significantly improving employee motivation and organizational performance.<br>
 </div>
-***
+
+
+
 <img src="../images/图片2.png" alt="photo2" style="width: 30%;height:auto;float:right">
 <div style="overflow:auto;">
 <div style="float:left;">
@@ -82,7 +84,9 @@ Played a key role in developing dynamic performance appraisals and incentive pla
 Provided personalized financial planning services, achieving an average daily sales performance of 2 million yuan.<br>
 Led 20+ client events and implemented differentiated service strategies to enhance customer satisfaction.
 </div>
-***
+
+
+
 <img src="../images/图片3.png" alt="photo3" style="width: 30%;height:auto;float:right">
 <div style="overflow:auto;">
 <div style="float:left;">
