@@ -88,7 +88,7 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 Led organizational restructuring and digital transformation initiatives to optimize labor costs and improve business management.<dr>
 Played a key role in developing dynamic performance appraisals and incentive plans, significantly improving employee motivation and organizational performance.<br>
 </div>
----
+***
 <style>
   .image-container {
     float: right;
@@ -114,7 +114,7 @@ Played a key role in developing dynamic performance appraisals and incentive pla
 Provided personalized financial planning services, achieving an average daily sales performance of 2 million yuan.<br>
 Led 20+ client events and implemented differentiated service strategies to enhance customer satisfaction.
 </div>
----
+***
 <style>
   .image-container {
     float: right;
@@ -140,13 +140,12 @@ Led 20+ client events and implemented differentiated service strategies to enhan
 Managed daily banking operations and financial reporting, leading process improvements that streamlined operations and enhanced business procedures.<br>
 Designed and launched a micro-credit loan product for farmers.
 </div>
----
+***
 # 📝 Teaching Experiences
 - *2023.04-2024.08*,**Corporate Trainer**. <br>
 Conducted training courses for employees preparing for the Economics Professional Qualification, covering subjects such as monetary and financial economics, fundamentals of economics, fiscal policy, accounting, and statistics.
 - *2020.04-2020.12*,**MBA Entrance Exam Tutor**. <br>
 Provided tutoring in foundational mathematics, logical reasoning, and analytical writing for MBA applicants. Delivered online sessions for 31 students and in-person tutoring for 2 students, significantly enhancing their exam scores.
-
 
 # 💬 Other Experiences
 - *2024.04*,**The 8th China International Standardization Leadership Elite＆ IEC YP(China) Programme**.<br>
