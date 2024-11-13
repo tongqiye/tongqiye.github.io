@@ -58,8 +58,9 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 - *2020.09* **Third-class Academic Scholarship**,Nankai university.
 
 # 💻 Working Experiences
-![photo1](../assets/nanfangdianwang.jpg)
-<img src="../assets/nanfangdianwang.jpg" width="30%">
+<div style="align: left">
+<img src="../assets/nanfangdianwang.jpg" width="50%"/>
+</div>
 - *2022.09 - 2024.08*,[China Southern Power Grid Co., Ltd](https://www.csg.cn/)<br>
 **Training and Workforce Management**,Haikou,China.<br>
 Led organizational restructuring and digital transformation initiatives to optimize labor costs and improve business management.<dr>
