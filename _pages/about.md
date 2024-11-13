@@ -63,17 +63,10 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 - *2020.09* **Third-class Academic Scholarship**,Nankai university.
 
 # 💻 Working Experiences
-<img src="../images/图片1.png" alt="photo1" style="width: 30%;height:auto;float:right">
-<div style="overflow:auto;">
-<div style="float:left;">
-  
 - *2022.09 - 2024.08*, [China Southern Power Grid Co., Ltd](https://www.csg.cn/)<br>
 **Training and Workforce Management**,Haikou,China.<br>
 Led organizational restructuring and digital transformation initiatives to optimize labor costs and improve business management.<dr>
 Played a key role in developing dynamic performance appraisals and incentive plans, significantly improving employee motivation and organizational performance.<br>
-</div>
-
-
 
 <img src="../images/图片2.png" alt="photo2" style="width: 30%;height:auto;float:right">
 <div style="overflow:auto;">
@@ -83,9 +76,6 @@ Played a key role in developing dynamic performance appraisals and incentive pla
 **Financial Advisor**,Changzhi,China.<br>
 Provided personalized financial planning services, achieving an average daily sales performance of 2 million yuan.<br>
 Led 20+ client events and implemented differentiated service strategies to enhance customer satisfaction.
-</div>
-
-
 
 <img src="../images/图片3.png" alt="photo3" style="width: 30%;height:auto;float:right">
 <div style="overflow:auto;">
@@ -95,8 +85,6 @@ Led 20+ client events and implemented differentiated service strategies to enhan
 **Operations Management**,Changzhi,China.<br>
 Managed daily banking operations and financial reporting, leading process improvements that streamlined operations and enhanced business procedures.<br>
 Designed and launched a micro-credit loan product for farmers.
-</div>
-
 
 # 📝 Teaching Experiences
 - *2023.04-2024.08*,**Corporate Trainer**. <br>
