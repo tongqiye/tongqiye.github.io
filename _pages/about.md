@@ -76,7 +76,7 @@ Played a key role in developing dynamic performance appraisals and incentive pla
 <style>
   .image-container {
     float: left;
-    width: 50%;
+    width: 30%;
   }
   .image-container img {
     width: 100%;
@@ -93,10 +93,12 @@ Played a key role in developing dynamic performance appraisals and incentive pla
   <img src="../assets/xingyeyinhang.jpeg" alt="photo2"/>
 </div>
 <div class="text-contaniner">
+
 - *2022.09 - 2024.08*,[China Industrial Bank](https://www.cib.com.cn/cn/index.html)<br>
 **Financial Advisor**,Changzhi,China.<br>
 Provided personalized financial planning services, achieving an average daily sales performance of 2 million yuan.<br>
 Led 20+ client events and implemented differentiated service strategies to enhance customer satisfaction.
+
 </div>
 
 #   
