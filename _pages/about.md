@@ -16,15 +16,15 @@ You can find my CV here:[ Qiye Tong’s Curriculum Vitae](./CurriculumVitae.pdf)
 # 📝 Publications 
 - [The impact of artificial intelligence on corporate financial asset allocation:Moderating role of organizational dynamic capabilities](https://www.sciencedirect.com/science/article/abs/pii/S1057521924007051?via%3Dihub). <br>
 Yu Li,Huiyi Zhong,**Qiye Tong***<br>
-[**International Review of Financial Analysis**](https://)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>丨SSCI Journal,JCR Q1,IF 8.2.<br>
+**International Review of Financial Analysis**丨SSCI Journal,JCR Q1,IF 8.2.<br>
 &#8226;Doi:10.1016/j.irfa.2024.103773<br>
 - [The Influence of CEO Financial Background on Corporate Financialization](https://www.sciencedirect.com/science/article/abs/pii/S1544612324014119?via%3Dihub).<br>
 Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
-[**Finance Research Letter**](https://)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>丨SSCI Journal,JCR Q1，IF 10.4.<br>
+**Finance Research Letter**丨SSCI Journal,JCR Q1，IF 10.4.<br>
 &#8226;Doi:10.1016/j.frl.2024.106382
 
 # 📖  Research Experiences
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='图片4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2023-2024*:**The Impact of Artificial Intelligence on Corporate Financial Asset Allocation:Moderating Role of Organizational   Dynamic Capabilities**<br>
 
@@ -33,7 +33,7 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 </div>
 </div>
 # &nbsp;
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='图片5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2023-2024*: **The Influence of CEO Financial Background on Corporate Financialization**<br>
 
