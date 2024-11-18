@@ -27,8 +27,8 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IRFA 2024</div><img src='../images/图片4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">  
-- *2023-2024*:**The Impact of Artificial Intelligence on Corporate Financial Asset Allocation:
-  Moderating Role of Organizational Dynamic Capabilities**<br>
+- *2023-2024*:**The Impact of Artificial Intelligence on Corporate Financial
+  Asset Allocation:Moderating Role of Organizational Dynamic Capabilities**<br>
 &#8226;**Activities**: Conceptualized the research framework to analyze the role of AI in corporate financial asset allocation,incorporating baseline regression and regulatory effect models. Developed baseline regression and regulatory effect models to evaluate AI's impact on financial asset allocation.Conducted data collection and analysis using CSMAR, Wind Financial Terminal, and company reports (25,811 companies).Actively engaged in peer-review discussions, addressing complex reviewer feedback to refine the study for publication.<br>
 &#8226;**Outcome**: [Published a research article as corresponding author in a high-impact,Q1 journal.](../assets/IRFA.pdf)<br>
 </div>
