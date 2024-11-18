@@ -70,7 +70,7 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li[^*]<br>
 - *2020.09* **Third-class Academic Scholarship**(¥10,000,Top 15%),Nankai university.
 
 # 💻 Working Experiences
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IRFA 2024</div><img src='../images/图片1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">China Southern Power Grid 2024</div><img src='../images/图片1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2022.09 - 2024.08*, [China Southern Power Grid Co., Ltd](https://www.csg.cn/)<br>
 **Training and Workforce Management**,Haikou,China.<br>
@@ -79,16 +79,16 @@ Played a key role in developing dynamic performance appraisals and incentive pla
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IRFA 2024</div><img src='../images/图片2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">China Industrial Bank 2019</div><img src='../images/图片2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *2022.09 - 2024.08*,[China Industrial Bank](https://www.cib.com.cn/cn/index.html)<br>
+- *2017.02 - 2019.12*,[China Industrial Bank](https://www.cib.com.cn/cn/index.html)<br>
 **Financial Advisor**,Changzhi,China.<br>
 Provided personalized financial planning services, achieving an average daily sales performance of 2 million yuan.<br>
 Led 20+ client events and implemented differentiated service strategies to enhance customer satisfaction.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IRFA 2024</div><img src='../images/图片3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ronghui Country Bank of Xiangyuan 2017</div><img src='../images/图片3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2015.09 - 2017.01*,[Ronghui Country Bank of Xiangyuan](https://baike.baidu.com/item/%E8%A5%84%E5%9E%A3%E5%8E%BF%E8%9E%8D%E6%B1%87%E6%9D%91%E9%95%87%E9%93%B6%E8%A1%8C%E6%9C%89%E9%99%90%E8%B4%A3%E4%BB%BB%E5%85%AC%E5%8F%B8/4042156?fr=ge_ala))<br>
 **Operations Management**,Changzhi,China.<br>
