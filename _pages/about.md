@@ -15,14 +15,14 @@ You can find my CV here:[ Qiye Tong’s Curriculum Vitae](./CurriculumVitae.pdf)
 
 # 📝 Publications 
 - [The impact of artificial intelligence on corporate financial asset allocation:Moderating role of organizational dynamic capabilities](https://www.sciencedirect.com/science/article/abs/pii/S1057521924007051?via%3Dihub). <br>
-Yu Li,Huiyi Zhong,**Qiye Tong[^*]**<br>
+Yu Li,Huiyi Zhong,**Qiye Tong<sup id="a1">[[1](#f1)</sup>**<br>
 **International Review of Financial Analysis**丨SSCI Journal,JCR Q1,IF 8.2.<br>
 &#8226;Doi:10.1016/j.irfa.2024.103773<br>
 - [The Influence of CEO Financial Background on Corporate Financialization](https://www.sciencedirect.com/science/article/abs/pii/S1544612324014119?via%3Dihub).<br>
-Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li[^*]<br>
+Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li<sup id="a1">[[1](#f1)</sup><br>
 **Finance Research Letter**丨SSCI Journal,JCR Q1，IF 10.4.<br>
 &#8226;Doi:10.1016/j.frl.2024.106382
-[^*]:Corresponding Author
+="f1">1. [^](#a1)</span>:Corresponding Author
 
 # 📖  Research Experiences
 
