@@ -42,7 +42,7 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IRFA 2024</div><img src='../images/图片7.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Human Resources Big Data Model 2023</div><img src='../images/图片7.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">  
 - *2022-2023*: **Research on Broadband Post-Level Dynamic Performance Appraisal and Incentive Scheme**<br>
 &#8226;**Activities**:  Collaborated on designing a big data model for human resources, employing SQL and machine learning techniques to predict employee performance based on a dataset of 30,000 historical records.Designed and implemented dynamic performance feedback and incentive schemes that enhanced organizational performance.<br>
