@@ -9,9 +9,9 @@ redirect_from:
 ---
 # Welcome!
 🎉🎉&nbsp;**I'm Qiye!Glad to meet you!I am looking for a PhD position in FALL 2025.**🎉🎉&nbsp; <br>
-I completed a 4-year Bachelor’s Degree in Finance at Shanxi University of Finance and Economics. Additionally, I obtained a 4-year Master’s Degree in Business Administration from Nankai University. In my ongoing pursuit of knowledge,My professional development also includes on-the-job studies in the Applied Psychology program at Renmin University of China and the Computer Science and Technology program at Sichuan University. Furthermore, I have nearly 7 years of work experience in commercial banks, investment firms, and large energy companies.<br>
-l have authored two research articles published in SSCI journals with a total impact factor of 18.2.Additionally, under the guidance of Professor Qi Yue from the Business School of Nankai University, my master’s thesis was recognized with the Outstanding Master’s Thesis Award by Nankai University.<br>
-You can find my CV here:[ Qiye Tong’s Curriculum Vitae](./CurriculumVitae.pdf). If you are interested in my work, please feel free to drop me an email : [tongqiye@outlook.com](tongqiye@outlook.com).
+   I completed a 4-year Bachelor’s Degree in Finance at Shanxi University of Finance and Economics. Additionally, I obtained a 4-year Master’s Degree in Business Administration from Nankai University. In my ongoing pursuit of knowledge,My professional development also includes on-the-job studies in the Applied Psychology program at Renmin University of China and the Computer Science and Technology program at Sichuan University. Furthermore, I have nearly 7 years of work experience in commercial banks, investment firms, and large energy companies.<br>
+   l have authored two research articles published in SSCI journals with a total impact factor of 18.2.Additionally, under the guidance of Professor Qi Yue from the Business School of Nankai University, my master’s thesis was recognized with the Outstanding Master’s Thesis Award by Nankai University.<br>
+- You can find my CV here:[ Qiye Tong’s Curriculum Vitae](./CurriculumVitae.pdf). If you are interested in my work, please feel free to drop me an email : [tongqiye@outlook.com](tongqiye@outlook.com).
 
 # 📝 Publications 
 - [The impact of artificial intelligence on corporate financial asset allocation:Moderating role of organizational dynamic capabilities](https://www.sciencedirect.com/science/article/abs/pii/S1057521924007051?via%3Dihub). <br>
