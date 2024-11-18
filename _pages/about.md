@@ -33,7 +33,6 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 &#8226;**Outcome**: [Published a research article as corresponding author in a high-impact,Q1 journal.](../assets/IRFA.pdf)<br>
 </div>
 </div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FRL 2024</div><img src='../images/图片5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2023-2024*: **The Influence of CEO Financial Background on Corporate Financialization**<br>
@@ -41,7 +40,6 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 &#8226;**Outcome**: [Published a research article as the third author in a high-impact,Q1 journal.](../assets/FRL.pdf)<br>
 </div>
 </div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Human Resources Big Data Model 2023</div><img src='../images/图片7.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">  
 - *2022-2023*: **Research on Broadband Post-Level Dynamic Performance Appraisal and Incentive Scheme**<br>
@@ -49,7 +47,6 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 &#8226;**Outcome**:[Awarded the provincial first prize for the project.](../assets/Award.Ppdf)<br>
 </div>
 </div>
-
 - *2021-2022*: **The Study on Xiangyuan RH Country Bank of Agricultural Loan Process Reengineering under Epidemic Prevention Situation.**<br>
   &#8226; **Activities**: Conducted a mixed-methods study, combining quantitative data analysis, surveys, and in-depth interviews to evaluate and optimize the bank's loan approval process under pandemic conditions.Used  statistical software to analyze 34 questionnaires and 50 interviews to optimize loan processing and risk management.Resulting process improvements reduced loan approval time from 15 days to 7 days.<br>
   &#8226; **Outcome**: [Awarded the Excellent Master's Thesis Award at Nankai University.](./lunwen.pdf)<br>
