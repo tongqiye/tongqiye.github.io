@@ -9,8 +9,8 @@ redirect_from:
 ---
 # Welcome!
 🎉🎉&nbsp;**I'm Qiye!Glad to meet you!I am looking for a PhD position in FALL 2025.**🎉🎉&nbsp; <br>
-   I completed a 4-year Bachelor’s Degree in Finance at Shanxi University of Finance and Economics. Additionally, I obtained a 4-year Master’s Degree in Business Administration from Nankai University. In my ongoing pursuit of knowledge,My professional development also includes on-the-job studies in the Applied Psychology program at Renmin University of China and the Computer Science and Technology program at Sichuan University. Furthermore, I have nearly 7 years of work experience in commercial banks, investment firms, and large energy companies.<br>
-   l have authored two research articles published in SSCI journals with a total impact factor of 18.2.Additionally, under the guidance of Professor Qi Yue from the Business School of Nankai University, my master’s thesis was recognized with the Outstanding Master’s Thesis Award by Nankai University.<br>
+-I completed a 4-year **Bachelor’s Degree in Finance** at Shanxi University of Finance and Economics. Additionally, I obtained a 4-year **Master’s Degree in Business Administration** from Nankai University. In my ongoing pursuit of knowledge,My professional development also includes on-the-job studies in the Applied Psychology program at Renmin University of China and the Computer Science and Technology program at Sichuan University. Furthermore, I have nearly **7 years of work experience** in commercial banks, investment firms, and large energy companies.<br>
+l have authored two research articles published in SSCI journals with a **total impact factor of 18.2**.Additionally, under the guidance of Professor Qi Yue from the Business School of Nankai University, my master’s thesis was recognized with the **Outstanding Master’s Thesis Award** by Nankai University.<br>
 - You can find my CV here:[ Qiye Tong’s Curriculum Vitae](./CurriculumVitae.pdf). If you are interested in my work, please feel free to drop me an email : [tongqiye@outlook.com](tongqiye@outlook.com).
 
 # 📝 Publications 
@@ -48,11 +48,11 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 
 - *2021-2022*: **The Study on Xiangyuan RH Country Bank of Agricultural Loan Process Reengineering under Epidemic Prevention Situation.**<br>
   &#8226; **Activities**: Conducted a mixed-methods study, combining quantitative data analysis, surveys, and in-depth interviews to evaluate and optimize the bank's loan approval process under pandemic conditions.Used  statistical software to analyze 34 questionnaires and 50 interviews to optimize loan processing and risk management.Resulting process improvements reduced loan approval time from 15 days to 7 days.<br>
-  &#8226; **Outcome**: [Awarded the Excellent Master's Thesis Award at Nankai University.](../assets/Lunwen.PDF)<br>
+  &#8226; **Outcome**: [Awarded the Excellent Master's Thesis Award at Nankai University.](./lunwen.PDF)<br>
  
 - *2019-2020*: **Research on the Construction and Application of Financial Manager Competency Model Under New Asset Management Regulations.**<br>
   &#8226; **Activities**:Reviewed extensive literature on financial manager competencies, contributing to the creation of a competency framework for bank financial managers, aligning with new asset management regulatory requirements.<br>
-  &#8226; **Outcome**: [Published a research article in the Journal of Financial Perspectives.](../assets/Qiyue.PDF)<br>
+  &#8226; **Outcome**: [Published a research article in the Journal of Financial Perspectives.](./qiyue.PDF)<br>
 
 
 # 🎓 Educations
