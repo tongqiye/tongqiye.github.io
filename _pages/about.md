@@ -23,8 +23,7 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 **Finance Research Letter**丨SSCI Journal,JCR Q1，IF 10.4.<br>
 &#8226;Doi:10.1016/j.frl.2024.106382
 <br>
-_*:Corresponding Author_
-
+**:Corresponding Author*
 
 # 📖  Research Experiences
 
