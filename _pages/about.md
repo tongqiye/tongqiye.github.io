@@ -42,9 +42,13 @@ Dan Kang,Jiahao Xu,**Qiye Tong**,Jiayan Li*<br>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IRFA 2024</div><img src='../images/图片7.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">  
 - *2022-2023*: **Research on Broadband Post-Level Dynamic Performance Appraisal and Incentive Scheme**<br>
 &#8226;**Activities**:  Collaborated on designing a big data model for human resources, employing SQL and machine learning techniques to predict employee performance based on a dataset of 30,000 historical records.Designed and implemented dynamic performance feedback and incentive schemes that enhanced organizational performance.<br>
 &#8226;**Outcome**:[Awarded the provincial first prize for the project.](../assets/Award.Ppdf)<br>
+</div>
+</div>
 
 - *2021-2022*: **The Study on Xiangyuan RH Country Bank of Agricultural Loan Process Reengineering under Epidemic Prevention Situation.**<br>
   &#8226; **Activities**: Conducted a mixed-methods study, combining quantitative data analysis, surveys, and in-depth interviews to evaluate and optimize the bank's loan approval process under pandemic conditions.Used  statistical software to analyze 34 questionnaires and 50 interviews to optimize loan processing and risk management.Resulting process improvements reduced loan approval time from 15 days to 7 days.<br>
